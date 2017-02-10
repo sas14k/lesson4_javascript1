@@ -3,14 +3,14 @@
 ### Course Title:
 LIS 2360:  Web Application Development
 
-### Assignment Date:  
-(Month Day, Year)
+### Assignment Date: 
+February 10, 2017
 
 ### Student Name:  
-(First and Last Name)
+Shaun Strickland
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project required students to edit an index.html file in order to create an application that completes Expense calculations. 
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
